@@ -83,6 +83,22 @@ h2{
     border-radius:15px;
     margin-top:20px;
 }
+.card ul{
+    margin-left:25px;
+    margin-top:15px;
+    line-height:1.8;
+}
+
+.card p{
+    line-height:1.8;
+    margin-bottom:10px;
+}
+
+footer{
+    text-align:center;
+    padding:30px;
+    background:rgba(255,255,255,0.05);
+}
 </style></head><body><nav>
 <a href="#origenes">Orígenes</a>
 <a href="#mision">Misión</a>
@@ -103,32 +119,73 @@ de millones de años.
 </header><section id="origenes">
 <h2>⏳ Orígenes</h2>
 <div class="card">
-El James Webb nació para responder preguntas que ningún otro telescopio podía resolver.
+<p>
+El Telescopio Espacial James Webb comenzó a desarrollarse en 1996 como el sucesor del telescopio Hubble.
+Fue construido gracias a la colaboración entre la NASA, la Agencia Espacial Europea (ESA) y la Agencia Espacial Canadiense (CSA).
+</p>
+<p>
+Después de más de 20 años de diseño, pruebas y construcción, fue lanzado el 25 de diciembre de 2021 desde la Guayana Francesa.
+</p>
 </div>
-</section><section id="mision">
-<h2>🚀 Misión</h2>
-<div class="card">
-Su objetivo es estudiar las primeras galaxias y la formación de estrellas y planetas.
+    </section><section id="mision">
+<h2> 🚀Misión</h2>
+    <div class="card">
+<p>
+La misión principal del James Webb es estudiar el origen y la evolución del universo.
+</p>
+<ul>
+<li>Observar las primeras galaxias.</li>
+<li>Investigar cómo nacen las estrellas.</li>
+<li>Analizar exoplanetas.</li>
+<li>Comprender la formación de sistemas planetarios.</li>
+</ul>
 </div>
 </section><section id="vision">
 <h2>🔭 Visión</h2>
 <div class="card">
-Observa el universo en luz infrarroja para atravesar nubes de polvo cósmico.
+<p>
+A diferencia de otros telescopios, el James Webb observa en luz infrarroja.
+Esto le permite atravesar enormes nubes de polvo cósmico y captar objetos extremadamente lejanos.
+</p>
+<p>
+Gracias a esta tecnología puede observar regiones del universo que antes eran invisibles para los científicos.
+</p>
 </div>
 </section><section id="hallazgos">
 <h2>🌌 Hallazgos</h2>
 <div class="card">
-Ha capturado algunas de las imágenes más detalladas del universo jamás obtenidas.
+<ul>
+<li>Descubrimiento de galaxias extremadamente antiguas.</li>
+<li>Imágenes detalladas de la Nebulosa de Carina.</li>
+<li>Análisis de atmósferas de exoplanetas.</li>
+<li>Nuevas observaciones de agujeros negros y cúmulos estelares.</li>
+</ul>
 </div>
 </section><section id="tecnologia">
 <h2>⚙️ Tecnología</h2>
 <div class="card">
-Cuenta con un espejo de 6.5 metros y un enorme escudo solar.
+<ul>
+<li>Espejo principal de 6,5 metros de diámetro.</li>
+<li>18 segmentos hexagonales recubiertos de oro.</li>
+<li>Escudo solar del tamaño de una cancha de tenis.</li>
+<li>Ubicación a 1,5 millones de kilómetros de la Tierra.</li>
+<li>Instrumentos especializados en observación infrarroja.</li>
+</ul>
 </div>
 </section><section id="futuro">
 <h2>✨ Futuro</h2>
 <div class="card">
-Ayudará a buscar atmósferas de exoplanetas y posibles señales de habitabilidad.
+<p>
+Durante la próxima década, el James Webb continuará explorando galaxias lejanas y exoplanetas.
+</p>
+<p>
+Los científicos esperan que sus observaciones ayuden a responder preguntas fundamentales sobre el origen de la vida y la evolución del universo.
+</p>
 </div>
-</section></body>
+</section>
+<footer>
+    <p>🚀 Proyecto Educativo sobre el Telescopio Espacial James Webb</p>
+    <p>Laura Camila Gómez • 2026</p>
+</footer>
+</body>
 </html>
