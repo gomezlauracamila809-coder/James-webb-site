@@ -35,8 +35,13 @@ nav a{
     border-radius:8px;
     text-align:center;
     background:rgba(255,255,255,0.05);
+    transition:0.3s; 
 }
-
+nav a:hover{
+    background:rgba(255,255,255,0.15);
+    box-shadow:0 0 10px rgba(255,255,255,0.4);
+    transform:scale(1.05);
+}
 header{
     height:100vh;
     display:flex;
@@ -60,6 +65,7 @@ header{
 
 .hero-text h1{
     font-size:4rem;
+    text-shadow: 0 0 15px rgba(100,150,255,0.5);
 }
 
 .hero-text p{
@@ -68,8 +74,7 @@ header{
 }
 
 section{
-    min-height:100vh;
-    padding:100px 15%;
+    padding:80px 15%;
 }
 
 h2{
@@ -80,8 +85,10 @@ h2{
 .card{
     background:rgba(255,255,255,0.08);
     padding:25px;
-    border-radius:15px;
+    border-radius:20px;
     margin-top:20px;
+    box-shadow:0 0 20px rgba(100,150,255,0.2);
+    max-width:900px;
 }
 .card ul{
     margin-left:25px;
@@ -114,7 +121,7 @@ Explorando los rincones más antiguos del universo y
 revelando secretos que permanecieron ocultos durante miles
 de millones de años.
 </p>
-</div><img src="https://es.wikipedia.org/wiki/Telescopio_espacial_James_Webb">
+</div><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/James_Webb_Space_Telescope_2009_top.jpg" alt="Telescopio James Webb">
 </div>
 </header><section id="origenes">
 <h2>⏳ Orígenes</h2>
