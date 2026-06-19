@@ -114,7 +114,7 @@ Explorando los rincones más antiguos del universo y
 revelando secretos que permanecieron ocultos durante miles
 de millones de años.
 </p>
-</div><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/James_Webb_Space_Telescope_2009_top.jpg">
+</div><img src="https://es.wikipedia.org/wiki/Telescopio_espacial_James_Webb">
 </div>
 </header><section id="origenes">
 <h2>⏳ Orígenes</h2>
