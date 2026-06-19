@@ -121,7 +121,7 @@ Explorando los rincones más antiguos del universo y
 revelando secretos que permanecieron ocultos durante miles
 de millones de años.
 </p>
-</div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/June_odd-eyed-cat.jpg/640px-June_odd-eyed-cat.jpg">
+</div><img src="https://www.comoves.unam.mx/storage/revista/237/el-telescopio-espacial-james-webb.jpg">
 </div>
 </header><section id="origenes">
 <h2>⏳ Orígenes</h2>
