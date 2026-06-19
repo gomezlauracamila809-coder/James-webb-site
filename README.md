@@ -61,6 +61,8 @@ header{
     width:500px;
     max-width:100%;
     border-radius:20px;
+    box-shadow:0 0 30px rgba(100,150,255,0.4);
+    transition:0.3s;
 }
 
 .hero-text h1{
@@ -116,10 +118,15 @@ footer{
 </nav><header>
 <div class="hero"><div class="hero-text">
 <h1>James Webb</h1>
-<h1>La Máquina que Viaja al Pasado</h1><p>
+<h1>La Máquina que Viaja al Pasado</h1>
+    <p>
 Explorando los rincones más antiguos del universo y
 revelando secretos que permanecieron ocultos durante miles
 de millones de años.
+</p>
+    
+    <p style="font-size:1.4rem; color:#9fc5ff;">
+Observando el universo tal como era hace más de 13.500 millones de años.
 </p>
 </div><img src="https://www.comoves.unam.mx/storage/revista/237/el-telescopio-espacial-james-webb.jpg">
 </div>
